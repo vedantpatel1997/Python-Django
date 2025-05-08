@@ -1,0 +1,73 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+local_settings.py
+db.sqlite3
+
+# Media and static files (you can customize these)
+media/
+staticfiles/
+
+# Virtual environments
+venv/
+.venv/
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Pipenv
+Pipfile.lock
+
+# pytest
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Coverage reports
+htmlcov/
+.coverage
+.tox/
+
+# Env files
+.venv
+.venv.*
+
+# node modules (in case you're using Node for frontend build)
+node_modules/
+
+# Build files
+build/
+dist/
+*.egg-info/
+*.egg
+*.whl
+
+# Celery
+celerybeat-schedule
